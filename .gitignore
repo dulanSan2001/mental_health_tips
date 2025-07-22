@@ -1,0 +1,5 @@
+# Node / Python / Composer / PHP cache (only if you use any)
+node_modules/
+vendor/
+.env
+images/
